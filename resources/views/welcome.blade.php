@@ -1,5 +1,6 @@
 <x-layout>
     <x-news.sort/>
+
     <div class="tab-content" id="pills-tabContent">
         <div class="tab-pane fade show active" id="pills-all" role="tabpanel" aria-labelledby="pills-all-tab">
             <div class="row row-cols-2 row-cols-sm-3 row-cols-md-4 pt-4">
